@@ -1,0 +1,13 @@
+.container{
+	border-style:solid;
+	border-color:black;
+	background: #EC7C2A;
+	
+}
+.image{
+	place-items: center;
+
+}
+.hamisi{
+	background: black;
+}
